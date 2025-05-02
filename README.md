@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Chirag Rane</h1>
+<p align="center">🚀 Full-Stack Developer | 📊 Data Science Explorer | 🧠 Lifelong Learner</p>
 
-<!--
-**heychirag-ds/heychirag-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🐍 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building modular Data Science repositories: `Python`, `NumPy`, `Pandas`, and `Projects`.
+- 💻 Passionate about solving real-world problems through software and clean data.
+- 📱 Experienced in web and app development with a love for smooth, functional UI.
+- 🛠 Exploring: AI, ML, automation, and end-to-end data workflows.
+- ✨ Fun Fact: I’m a productivity nerd who automates everything... even my caffeine intake (almost 😄).
+
+---
+
+## 📲 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chiragrane04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-rane-2a7ba5270/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-blue)](Releasing in June 2025) <!-- optional -->
+
+---
+
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![ShadCN UI](https://img.shields.io/badge/-ShadCN-111827?style=flat&logo=react&logoColor=white)
+![Clerk](https://img.shields.io/badge/-Clerk-F44?style=flat&logo=clerk&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub stats with streak and language usage -->
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."  
+> – Martin Fowler
+
+---
+
+## 🧩 Featured Repositories
+
+| 📦 Repo | 📌 Description |
+|--------|----------------|
+| [python](https://github.com/heychirag-ds/Python.git) | Python basics and OOP essentials |
+| [numpy](https://github.com/heychirag-ds/Numpy.git) | Vectorized computing and math tricks |
+| [pandas](https://github.com/heychirag-ds/Pandas.git) | Data analysis, cleaning, and manipulation |
+| [projects](https://github.com/heychirag-ds/Projects.git) | End-to-end Data Science mini-projects |
+
+---
+
+<p align="center">
+  Thanks for visiting! ⭐ Star a repo if it helped or inspired you!
+</p>
