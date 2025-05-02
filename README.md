@@ -33,7 +33,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySql-181717?style=flat&logo=mysql&logoColor=orange)
 ![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=Firebase&logoColor=yellow)
-
+![Django](https://img.shields.io/badge/-Django-181717?style=flat&logo=Django&logoColor=green)
+![Flask](https://img.shields.io/badge/-Flask-181717?style=flat&logo=Flask&logoColor=sky)
+![Vite](https://img.shields.io/badge/-Vite-181717?style=flat&logo=Vite&logoColor=purple)
 ---
 
 ## 📊 GitHub Stats
