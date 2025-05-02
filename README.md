@@ -40,7 +40,6 @@
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=heychirag-ds&show_icons=true&theme=tokyonight" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heychirag-ds&layout=compact&theme=tokyonight" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=heychirag-ds&theme=tokyonight" />
 </div>
 
 ---
