@@ -31,8 +31,8 @@
 ![ShadCN UI](https://img.shields.io/badge/-ShadCN-111827?style=flat&logo=react&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-F44?style=flat&logo=clerk&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![MySQL](https://img.shields.io/badge/-MySql-181717?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=Firebase)
+![MySQL](https://img.shields.io/badge/-MySql-181717?style=flat&logo=mysql&logoColor=orange)
+![Firebase](https://img.shields.io/badge/-Firebase-181717?style=flat&logo=Firebase&logoColor=yellow)
 
 ---
 
