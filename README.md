@@ -40,6 +40,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-20232A?style=for-the-badge&logo=Jupyter_Notebook&logoColor=61DAFB)
 
 ---
 
