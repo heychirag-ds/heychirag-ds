@@ -15,18 +15,9 @@
 
 ## 📲 Socials
 
-<p align="left">
-  <a href="https://www.instagram.com/chiragrane04/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chirag-rane-2a7ba5270/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Releasing_June_2025-blue?style=for-the-badge"/>
-  </a>
-</p>
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chiragrane04/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-rane-2a7ba5270/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Releasing_June_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white)](#)
 
 ---
 
