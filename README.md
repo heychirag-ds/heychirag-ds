@@ -17,7 +17,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chiragrane04/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-rane-2a7ba5270/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue)](#)<!-- optional -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Releasing June 2025-blue)](#)<!-- optional -->
 
 ---
 
