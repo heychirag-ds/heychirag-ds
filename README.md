@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Releasing_June_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-Releasing_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
 
@@ -71,10 +71,7 @@
 
 | 📦 **Repo** | 📌 **Description** |
 |--------|-------------------|
-| [python](https://github.com/heychirag-ds/Python.git) | Dive into **Python basics** and discover the magic of Object-Oriented Programming (OOP). |
 | [numpy](https://github.com/heychirag-ds/Numpy.git) | Learn the power of **vectorized computing** and math tricks that make data processing easier. |
-| [pandas](https://github.com/heychirag-ds/Pandas.git) | Master **data cleaning** and **manipulation** with the mighty **Pandas** library. |
-| [projects](https://github.com/heychirag-ds/Projects.git) | A collection of **end-to-end Data Science projects** to sharpen your skills and showcase your work. |
 
 ---
 
