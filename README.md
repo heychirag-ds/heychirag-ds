@@ -9,7 +9,7 @@
 
 ## 🐍 About Me
 
-- 🔭 **Building Modular Data Science Repos**: From `Python`, `NumPy`, `Pandas`, to end-to-end projects that’ll make your data dance.
+- 🔭 **Building Modular Data Science Repos**: From `Data Science Conepts & Fundamentals`, to end-to-end projects that’ll make your data dance.
 - 💻 **Tech Enthusiast**: Solving **real-world problems** with data and sleek software solutions.
 - 📱 Experienced in **Web & App Development** – Obsessed with building **smooth, functional UIs** that keep users coming back!
 - 🧠 **Always learning**: Currently diving deep into **AI, ML**, automation, and data-driven workflows that will revolutionize industries.
