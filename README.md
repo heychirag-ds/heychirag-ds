@@ -29,6 +29,12 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Releasing_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge"/>
+  </a>
 </p>
 
 ---
