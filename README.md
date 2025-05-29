@@ -29,12 +29,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-Releasing_2025-FF8C00?style=for-the-badge&logo=fire&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn Badge"/>
-  </a>
 </p>
 
 ---
@@ -46,6 +40,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-013243?style=for-the-badge&logo=pandas&logoColor=cyan)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0D3A4C?style=for-the-badge&logo=seaborn&logoColor=white)
+
 
 ---
 
