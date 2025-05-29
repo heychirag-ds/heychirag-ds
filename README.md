@@ -76,7 +76,7 @@
 - 🧠 I’m always open to collaborating, discussing ideas, or just geeking out about data science. **Let’s build something innovative together!**
 
 <p align="center">
-  Thanks for visiting! If you like my work, **star** a repo, share, or just say hi! 🙌
+  Thanks for visiting! If you like my work, star a repo, share, or just say hi! 🙌
 </p>
 
 ---
