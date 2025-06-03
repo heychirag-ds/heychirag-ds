@@ -70,6 +70,7 @@
 | [Numpy](https://github.com/heychirag-ds/Numpy.git) | Master the backbone of numerical computing in Python. From arrays to linear algebra, get hands-on with high-speed math operations. |
 | [Pandas](https://github.com/heychirag-ds/Pandas.git) | Dive into real-world data wrangling with Pandas — slicing, dicing, cleaning, and transforming datasets like a pro. |
 | [Data Visualization](https://github.com/heychirag-ds/Data-Visualization.git) | Visualize datasets easily with beautiful graphs and charts. |
+| [Projects](https://github.com/heychirag-ds/Projects.git) | Projects and assignments related to Data Science with Python Automations. |
 
 ---
 
